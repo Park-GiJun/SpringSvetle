@@ -45,7 +45,6 @@
         height: 50px;
         margin: 10px 10px 10px 10px;
         border: 1px #5BA199 solid;
-        box-shadow: #5BA199 1px 1px 0 0;
         border-radius: 8px;
         text-align: center;
     }

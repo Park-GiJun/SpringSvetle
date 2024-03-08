@@ -19,7 +19,7 @@
 
 <button on:click={draw}>클릭</button>
 
-<canvas id="canvas" width="100%" height="100%">
+<canvas id="canvas" width="120px" height="90px">
 
 </canvas>
 
